@@ -46,3 +46,4 @@ python3 -m http.server 8080
 ## License
 MIT
 
+**Author:** Manya Chandra <manyachandra@proton.me>
