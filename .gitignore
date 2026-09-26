@@ -1,0 +1,25 @@
+# .gitignore for static web projects
+# https://github.com/github/gitignore
+
+# Build outputs
+*.pdf
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.sln
+*.suo
+
+# Node (if added later)
+node_modules/
+npm-debug.log*
+
+# Environment
+.env
+.env.local
